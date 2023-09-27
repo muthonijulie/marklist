@@ -8,8 +8,8 @@ public class marklist {
 		int studTotal=0;
 		double[] averages = new double[4];;
 		String[] grades = new String[4];
-        String[] results = new String[4];
-        int rl1 = 101, rl2 = 102, rl3 = 103, rl4 = 104; int[] mark1 = new int[4]; int [] mark2 = new int[4]; int[] mark3 = new int[4];
+               String[] results = new String[4];
+                int rl1 = 101, rl2 = 102, rl3 = 103, rl4 = 104; int[] mark1 = new int[4]; int [] mark2 = new int[4]; int[] mark3 = new int[4];
 		String[] studname = new String[4];
 		Scanner scanner = new Scanner(System.in);
 		
